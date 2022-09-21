@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Honda</string>
+    <string name="title_activity_act_booking_service">ActBookingService</string>
+    <string name="title_activity_act_mycar">My Car</string>
+
+</resources>
